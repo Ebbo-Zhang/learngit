@@ -10,4 +10,4 @@ Creat a repo on github.
 
 Change folder path.
 
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
