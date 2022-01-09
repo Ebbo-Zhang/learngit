@@ -13,3 +13,5 @@ Change folder path.
 Creating a new branch is quick and simple.
 
 Disable fast-forward.
+
+Test ff and no-ff.
