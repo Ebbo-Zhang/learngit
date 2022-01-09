@@ -11,3 +11,5 @@ Creat a repo on github.
 Change folder path.
 
 Creating a new branch is quick and simple.
+
+Disable fast-forward.
