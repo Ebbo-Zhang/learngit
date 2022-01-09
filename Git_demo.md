@@ -17,3 +17,6 @@ Disable fast-forward.
 Test ff and no-ff
 
 1st modified.
+
+2nd modified.
+
