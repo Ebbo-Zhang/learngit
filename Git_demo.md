@@ -14,4 +14,6 @@ Creating a new branch is quick and simple.
 
 Disable fast-forward.
 
-Test ff and no-ff.
+Test ff and no-ff
+
+1st modified.
