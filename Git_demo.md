@@ -9,3 +9,5 @@ Git tracks changes of files.
 Creat a repo on github.
 
 Change folder path.
+
+Creating a new branch is quick.
